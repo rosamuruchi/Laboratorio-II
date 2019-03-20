@@ -1,0 +1,7 @@
+D:\VisualStudio\Muruchi.Rosa\Clase_02\bin\Debug\Clase_02.exe.config
+D:\VisualStudio\Muruchi.Rosa\Clase_02\bin\Debug\Clase_02.exe
+D:\VisualStudio\Muruchi.Rosa\Clase_02\bin\Debug\Clase_02.pdb
+D:\VisualStudio\Muruchi.Rosa\Clase_02\obj\Debug\Clase_02.csprojAssemblyReference.cache
+D:\VisualStudio\Muruchi.Rosa\Clase_02\obj\Debug\Clase_02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Muruchi.Rosa\Clase_02\obj\Debug\Clase_02.exe
+D:\VisualStudio\Muruchi.Rosa\Clase_02\obj\Debug\Clase_02.pdb
