@@ -1,0 +1,8 @@
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\obj\Debug\netstandard2.0\Libreria.csproj.CoreCompileInputs.cache
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\obj\Debug\netstandard2.0\Libreria.AssemblyInfoInputs.cache
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\obj\Debug\netstandard2.0\Libreria.AssemblyInfo.cs
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\bin\Debug\netstandard2.0\Libreria.deps.json
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\bin\Debug\netstandard2.0\Libreria.dll
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\bin\Debug\netstandard2.0\Libreria.pdb
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\obj\Debug\netstandard2.0\Libreria.dll
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\obj\Debug\netstandard2.0\Libreria.pdb
