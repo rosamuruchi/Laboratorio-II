@@ -1,0 +1,10 @@
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\bin\Debug\Clase04.exe.config
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\bin\Debug\Clase04.exe
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\bin\Debug\Clase04.pdb
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.csprojAssemblyReference.cache
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.FrmCosa.resources
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.Properties.Resources.resources
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.csproj.GenerateResource.cache
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.csproj.CoreCompileInputs.cache
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.exe
+D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.pdb

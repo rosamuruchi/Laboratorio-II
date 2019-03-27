@@ -1,0 +1,5 @@
+D:\Laura_Rocio\Muruchi.Rosa\Clase_04\bin\Debug\Clase_04.dll
+D:\Laura_Rocio\Muruchi.Rosa\Clase_04\bin\Debug\Clase_04.pdb
+D:\Laura_Rocio\Muruchi.Rosa\Clase_04\obj\Debug\Clase_04.Entidades.csproj.CoreCompileInputs.cache
+D:\Laura_Rocio\Muruchi.Rosa\Clase_04\obj\Debug\Clase_04.dll
+D:\Laura_Rocio\Muruchi.Rosa\Clase_04\obj\Debug\Clase_04.pdb

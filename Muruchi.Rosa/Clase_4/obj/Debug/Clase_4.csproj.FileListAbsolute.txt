@@ -1,0 +1,10 @@
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\bin\Debug\Clase_4.exe.config
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\bin\Debug\Clase_4.exe
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\bin\Debug\Clase_4.pdb
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\bin\Debug\Clase_04.dll
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\bin\Debug\Clase_04.pdb
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\obj\Debug\Clase_4.csprojAssemblyReference.cache
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\obj\Debug\Clase_4.csproj.CoreCompileInputs.cache
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\obj\Debug\Clase_4.csproj.CopyComplete
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\obj\Debug\Clase_4.exe
+D:\Laura_Rocio\Muruchi.Rosa\Clase_4\obj\Debug\Clase_4.pdb
