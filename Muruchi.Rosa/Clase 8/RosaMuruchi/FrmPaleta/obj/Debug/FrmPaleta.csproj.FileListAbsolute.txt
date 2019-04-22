@@ -1,0 +1,47 @@
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.exe.config
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.exe
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.pdb
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.exe
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.pdb
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.exe.config
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csprojAssemblyReference.cache
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.FrmPaleta.resources
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.Properties.Resources.resources
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.GenerateResource.cache
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.CoreCompileInputs.cache
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.CopyComplete
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.exe
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.pdb
+D:\Laura_Rocio\laabo\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.FrmTempera.resources
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csprojAssemblyReference.cache
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.FrmPaleta.resources
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.FrmTempera.resources
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.Properties.Resources.resources
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.GenerateResource.cache
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.CoreCompileInputs.cache
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.exe
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.pdb
+D:\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.exe.config
+D:\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.exe
+D:\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.pdb
+D:\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.exe
+D:\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.pdb
+D:\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.exe.config
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.CopyComplete
+D:\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.FrmPrincipal.resources
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.exe.config
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.exe
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\bin\Debug\FrmPaleta.pdb
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.exe
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.pdb
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\bin\Debug\Clase.06.Entidades.exe.config
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csprojAssemblyReference.cache
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.FrmPaleta.resources
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.FrmPrincipal.resources
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.FrmTempera.resources
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.Properties.Resources.resources
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.GenerateResource.cache
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.CoreCompileInputs.cache
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.csproj.CopyComplete
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.exe
+E:\LABORATORIO-2\Laura_Rocio\Muruchi.Rosa\Clase 8\RosaMuruchi\FrmPaleta\obj\Debug\FrmPaleta.pdb

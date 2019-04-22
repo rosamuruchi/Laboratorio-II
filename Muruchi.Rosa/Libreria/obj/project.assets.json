@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Laura_Rocio\\Muruchi.Rosa\\Libreria\\Libreria.csproj",
+      "projectUniqueName": "E:\\LABORATORIO-2\\Laura_Rocio\\Muruchi.Rosa\\Libreria\\Libreria.csproj",
       "projectName": "Libreria",
-      "projectPath": "D:\\Laura_Rocio\\Muruchi.Rosa\\Libreria\\Libreria.csproj",
+      "projectPath": "E:\\LABORATORIO-2\\Laura_Rocio\\Muruchi.Rosa\\Libreria\\Libreria.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "D:\\Laura_Rocio\\Muruchi.Rosa\\Libreria\\obj\\",
+      "outputPath": "E:\\LABORATORIO-2\\Laura_Rocio\\Muruchi.Rosa\\Libreria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",

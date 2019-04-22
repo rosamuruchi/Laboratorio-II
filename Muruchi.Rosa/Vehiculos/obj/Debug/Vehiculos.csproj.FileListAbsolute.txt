@@ -1,0 +1,6 @@
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\bin\Debug\Vehiculos.dll
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\obj\Debug\Vehiculos.dll
+D:\RosaMuruchi\Clase 8\RosaMuruchi\Vehiculos\obj\Debug\Vehiculos.pdb

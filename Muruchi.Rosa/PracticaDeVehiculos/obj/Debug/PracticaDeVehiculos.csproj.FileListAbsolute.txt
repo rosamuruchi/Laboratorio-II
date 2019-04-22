@@ -1,0 +1,10 @@
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\bin\Debug\PracticaDeVehiculos.exe.config
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\bin\Debug\PracticaDeVehiculos.exe
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\bin\Debug\PracticaDeVehiculos.pdb
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\bin\Debug\Vehiculos.dll
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\bin\Debug\Vehiculos.pdb
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.csprojAssemblyReference.cache
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.csproj.CoreCompileInputs.cache
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.csproj.CopyComplete
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.exe
+D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.pdb

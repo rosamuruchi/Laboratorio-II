@@ -1,0 +1,1 @@
+﻿public enum EMarca { Renault, Zanella, Scania , Ferrari,Honda,Ford,Iveco,Fiat }

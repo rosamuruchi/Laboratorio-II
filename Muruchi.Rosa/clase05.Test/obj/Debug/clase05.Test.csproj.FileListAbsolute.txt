@@ -1,0 +1,11 @@
+D:\VisualStudio\RosaMuruchi\clase05.Test\obj\Debug\clase05.Test.csprojAssemblyReference.cache
+D:\VisualStudio\RosaMuruchi\clase05.Test\obj\Debug\clase05.Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\RosaMuruchi\clase05.Test\bin\Debug\clase05.Test.exe.config
+D:\VisualStudio\RosaMuruchi\clase05.Test\bin\Debug\clase05.Test.exe
+D:\VisualStudio\RosaMuruchi\clase05.Test\bin\Debug\clase05.Test.pdb
+D:\VisualStudio\RosaMuruchi\clase05.Test\bin\Debug\Clase05.exe
+D:\VisualStudio\RosaMuruchi\clase05.Test\bin\Debug\Clase05.pdb
+D:\VisualStudio\RosaMuruchi\clase05.Test\bin\Debug\Clase05.exe.config
+D:\VisualStudio\RosaMuruchi\clase05.Test\obj\Debug\clase05.Test.csproj.CopyComplete
+D:\VisualStudio\RosaMuruchi\clase05.Test\obj\Debug\clase05.Test.exe
+D:\VisualStudio\RosaMuruchi\clase05.Test\obj\Debug\clase05.Test.pdb

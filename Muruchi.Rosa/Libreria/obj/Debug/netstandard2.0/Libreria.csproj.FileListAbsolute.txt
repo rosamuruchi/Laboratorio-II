@@ -6,3 +6,4 @@ D:\Laura_Rocio\Muruchi.Rosa\Libreria\bin\Debug\netstandard2.0\Libreria.dll
 D:\Laura_Rocio\Muruchi.Rosa\Libreria\bin\Debug\netstandard2.0\Libreria.pdb
 D:\Laura_Rocio\Muruchi.Rosa\Libreria\obj\Debug\netstandard2.0\Libreria.dll
 D:\Laura_Rocio\Muruchi.Rosa\Libreria\obj\Debug\netstandard2.0\Libreria.pdb
+D:\Laura_Rocio\Muruchi.Rosa\Libreria\obj\Debug\netstandard2.0\Libreria.csprojAssemblyReference.cache

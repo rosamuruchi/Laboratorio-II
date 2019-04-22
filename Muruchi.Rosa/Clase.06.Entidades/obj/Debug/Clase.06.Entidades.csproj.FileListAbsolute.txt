@@ -1,0 +1,14 @@
+D:\Laura_Rocio\laabo\RosaMuruchi\Clase.06.Entidades\bin\Debug\Clase.06.Entidades.exe.config
+D:\Laura_Rocio\laabo\RosaMuruchi\Clase.06.Entidades\bin\Debug\Clase.06.Entidades.exe
+D:\Laura_Rocio\laabo\RosaMuruchi\Clase.06.Entidades\bin\Debug\Clase.06.Entidades.pdb
+D:\Laura_Rocio\laabo\RosaMuruchi\Clase.06.Entidades\obj\Debug\Clase.06.Entidades.csproj.CoreCompileInputs.cache
+D:\Laura_Rocio\laabo\RosaMuruchi\Clase.06.Entidades\obj\Debug\Clase.06.Entidades.exe
+D:\Laura_Rocio\laabo\RosaMuruchi\Clase.06.Entidades\obj\Debug\Clase.06.Entidades.pdb
+D:\Laura_Rocio\laabo\RosaMuruchi\Clase.06.Entidades\obj\Debug\Clase.06.Entidades.csprojAssemblyReference.cache
+D:\RosaMuruchi\Clase.06.Entidades\obj\Debug\Clase.06.Entidades.csprojAssemblyReference.cache
+D:\RosaMuruchi\Clase.06.Entidades\obj\Debug\Clase.06.Entidades.csproj.CoreCompileInputs.cache
+D:\RosaMuruchi\Clase.06.Entidades\obj\Debug\Clase.06.Entidades.exe
+D:\RosaMuruchi\Clase.06.Entidades\obj\Debug\Clase.06.Entidades.pdb
+D:\RosaMuruchi\Clase.06.Entidades\bin\Debug\Clase.06.Entidades.exe.config
+D:\RosaMuruchi\Clase.06.Entidades\bin\Debug\Clase.06.Entidades.exe
+D:\RosaMuruchi\Clase.06.Entidades\bin\Debug\Clase.06.Entidades.pdb

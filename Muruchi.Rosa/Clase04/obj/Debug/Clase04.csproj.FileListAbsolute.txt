@@ -8,3 +8,13 @@ D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.csproj.GenerateResource.ca
 D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.csproj.CoreCompileInputs.cache
 D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.exe
 D:\Laura_Rocio\Muruchi.Rosa\Clase04\obj\Debug\Clase04.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\bin\Debug\Clase04.exe.config
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\bin\Debug\Clase04.exe
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\bin\Debug\Clase04.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\obj\Debug\Clase04.csprojAssemblyReference.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\obj\Debug\Clase04.FrmCosa.resources
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\obj\Debug\Clase04.Properties.Resources.resources
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\obj\Debug\Clase04.csproj.GenerateResource.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\obj\Debug\Clase04.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\obj\Debug\Clase04.exe
+C:\Users\Rocio\Desktop\Muruchi.Rosa\Clase04\obj\Debug\Clase04.pdb
