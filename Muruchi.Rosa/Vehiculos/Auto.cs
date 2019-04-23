@@ -11,6 +11,17 @@ namespace Vehiculos
     {
         protected int cantidadAsientos;
 
+        public override double Precio
+        {
+            get { return base._precio; }
+            set { base._precio = value; }
+        }
+
+        public override double CalcularPrecioConIva()
+        {
+            return base._precio * 0.21 + this._precio;
+        }
+
         public string MostrarAuto()
         {
             return base.MostrarVehiculo() + "-" + this.cantidadAsientos.ToString();
@@ -19,6 +30,11 @@ namespace Vehiculos
         public Auto(string cadena, Byte num, EMarca marca,int asientos) :base(cadena,num,marca)
         {
             this.cantidadAsientos = asientos;
+        }
+
+        public override string ToString()
+        {
+            return this.MostrarAuto();
         }
     }
 }

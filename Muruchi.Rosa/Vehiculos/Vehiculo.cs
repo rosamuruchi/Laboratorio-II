@@ -6,13 +6,32 @@ using System.Threading.Tasks;
 
 namespace Vehiculos
 {
-    public class Vehiculo
+    public abstract class Vehiculo
     {
-        protected string patente;
-        protected EMarca marca;
+        protected string _patente;
+        protected EMarca _marca;
         protected Byte cantidadRuedas;
 
+        protected double _precio;
 
+        public abstract double Precio
+        {
+            get;  set;
+        }
+
+        public string patente
+        {
+            get { return this._patente; }
+            set { this._patente = value; }
+        }
+
+        public string marca
+        {
+            get { return this._marca; }
+            set { this._marca = value; }
+        }
+
+        public abstract double CalcularPrecioConIva();
 
         protected string MostrarVehiculo()
         {
@@ -53,5 +72,12 @@ namespace Vehiculos
         {
             return !(v1 == v2);
         }
+
+        public override string ToString()
+        {
+            return this.MostrarVehiculo();
+        }
+
+        
     }
 }

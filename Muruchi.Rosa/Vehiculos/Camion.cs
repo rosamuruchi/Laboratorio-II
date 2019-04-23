@@ -10,6 +10,17 @@ namespace Vehiculos
     {
         protected float tara;
 
+        public override double Precio
+        {
+            get { return base._precio; }
+            set { base._precio = value; }
+        }
+
+        public override double CalcularPrecioConIva()
+        {
+            return base._precio * 0.21 + this._precio;
+        }
+
         public string MostrarCamion ()
         {
             return base.MostrarVehiculo() + "-" + this.tara.ToString();
@@ -18,6 +29,10 @@ namespace Vehiculos
         public Camion (string cadena, Byte num, EMarca marca, float tara) : base(cadena, num, marca)
         {
             this.tara = tara;
+        }
+        public override string ToString()
+        {
+            return this.MostrarCamion();
         }
     }
 }
