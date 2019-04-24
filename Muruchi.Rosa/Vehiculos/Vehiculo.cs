@@ -10,10 +10,9 @@ namespace Vehiculos
     {
         protected string _patente;
         protected EMarca _marca;
-        protected Byte cantidadRuedas;
-
+        protected Byte _cantidadRuedas;
         protected double _precio;
-
+        //Propiedades
         public abstract double Precio
         {
             get;  set;
@@ -25,24 +24,30 @@ namespace Vehiculos
             set { this._patente = value; }
         }
 
-        public string marca
+        public EMarca marca
         {
             get { return this._marca; }
             set { this._marca = value; }
+        }
+
+        public Byte Ruedas
+        {
+            get { return this._cantidadRuedas; }
+            set { this._cantidadRuedas = value; }
         }
 
         public abstract double CalcularPrecioConIva();
 
         protected string MostrarVehiculo()
         {
-            return this.patente.ToString() + "-" + this.marca.ToString() + "-" + this.cantidadRuedas.ToString();
+            return this._patente.ToString() + "-" + this._marca.ToString() + "-" + this._cantidadRuedas.ToString();
         }
 
         public Vehiculo(string cadena ,Byte num, EMarca marca)
         {
-            this.cantidadRuedas = num;
-            this.marca = marca;
-            this.patente = cadena;
+            this._cantidadRuedas = num;
+            this._marca = marca;
+            this._patente = cadena;
         }
 
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
@@ -56,7 +61,7 @@ namespace Vehiculos
             {
                 if (!Equals(v1, null) && !Equals(v2, null))
                 {
-                    if ( v1.marca == v2.marca &&  v1.patente == v2.patente)
+                    if ( v1._marca == v2._marca &&  v1._patente == v2._patente)
                     {
                         retorno = true;
                     }

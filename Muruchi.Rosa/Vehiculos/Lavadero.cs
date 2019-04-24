@@ -98,6 +98,10 @@ namespace Vehiculos
             }
             return lavadero;
         }
+        public double MostrarTotalFacturado()
+        {
+            return this.MostrarTotalFacturado(EVehiculos.Auto) + this.MostrarTotalFacturado(EVehiculos.Camion) + this.MostrarTotalFacturado(EVehiculos.Moto);
+        }
 
         public double MostrarTotalFacturado (EVehiculos vEnum)
         {
