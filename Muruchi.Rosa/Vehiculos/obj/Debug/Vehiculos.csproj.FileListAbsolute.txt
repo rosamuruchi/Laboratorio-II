@@ -8,3 +8,9 @@ C:\Users\Rocio\Desktop\Laboratorio-II\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos
 C:\Users\Rocio\Desktop\Laboratorio-II\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
 C:\Users\Rocio\Desktop\Laboratorio-II\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.dll
 C:\Users\Rocio\Desktop\Laboratorio-II\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.pdb
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\Vehiculos\bin\Debug\Vehiculos.dll
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.dll
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\Vehiculos\obj\Debug\Vehiculos.pdb

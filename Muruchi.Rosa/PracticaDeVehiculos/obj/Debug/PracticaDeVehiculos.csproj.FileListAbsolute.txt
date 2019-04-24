@@ -8,3 +8,13 @@ D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehic
 D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.csproj.CopyComplete
 D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.exe
 D:\RosaMuruchi\Clase 8\RosaMuruchi\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.pdb
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\bin\Debug\PracticaDeVehiculos.exe.config
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\bin\Debug\PracticaDeVehiculos.exe
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\bin\Debug\PracticaDeVehiculos.pdb
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\bin\Debug\Vehiculos.dll
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\bin\Debug\Vehiculos.pdb
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.csprojAssemblyReference.cache
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.csproj.CoreCompileInputs.cache
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.csproj.CopyComplete
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.exe
+D:\Rocio_Laura\Laboratorio-II\Muruchi.Rosa\PracticaDeVehiculos\obj\Debug\PracticaDeVehiculos.pdb

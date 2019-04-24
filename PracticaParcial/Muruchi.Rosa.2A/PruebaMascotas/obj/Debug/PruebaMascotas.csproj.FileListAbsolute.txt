@@ -1,0 +1,10 @@
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\bin\Debug\PruebaMascotas.exe.config
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\bin\Debug\PruebaMascotas.exe
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\bin\Debug\PruebaMascotas.pdb
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\bin\Debug\Muruchi.Rosa.2A.dll
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\bin\Debug\Muruchi.Rosa.2A.pdb
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\obj\Debug\PruebaMascotas.csprojAssemblyReference.cache
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\obj\Debug\PruebaMascotas.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\obj\Debug\PruebaMascotas.csproj.CopyComplete
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\obj\Debug\PruebaMascotas.exe
+D:\VisualStudio\Muruchi.Rosa.2A\PruebaMascotas\obj\Debug\PruebaMascotas.pdb

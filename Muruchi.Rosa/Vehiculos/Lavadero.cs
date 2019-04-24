@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Vehiculos
 {
-    class Lavadero
+    public class Lavadero
     {
         private List<Vehiculo> _vehiculos;
 
@@ -19,7 +19,6 @@ namespace Vehiculos
             get
             {
                 return this.MostrarLavadero();
-
             }
         }
 
