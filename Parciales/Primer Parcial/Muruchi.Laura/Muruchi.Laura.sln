@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP-Fichatecnica", "PP-Fichatecnica\PP-Fichatecnica.csproj", "{D1F0881F-EA93-4C99-B030-A148A2F2BD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F0881F-EA93-4C99-B030-A148A2F2BD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F0881F-EA93-4C99-B030-A148A2F2BD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F0881F-EA93-4C99-B030-A148A2F2BD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F0881F-EA93-4C99-B030-A148A2F2BD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D673225A-D693-48B0-9BCA-BE52DBA5A8AB}
+	EndGlobalSection
+EndGlobal

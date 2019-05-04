@@ -1,0 +1,7 @@
+C:\Users\Rocio\source\repos\Muruchi.Laura\PP-Fichatecnica\bin\Debug\PP-Fichatecnica.exe.config
+C:\Users\Rocio\source\repos\Muruchi.Laura\PP-Fichatecnica\bin\Debug\PP-Fichatecnica.exe
+C:\Users\Rocio\source\repos\Muruchi.Laura\PP-Fichatecnica\bin\Debug\PP-Fichatecnica.pdb
+C:\Users\Rocio\source\repos\Muruchi.Laura\PP-Fichatecnica\obj\Debug\PP-Fichatecnica.csprojAssemblyReference.cache
+C:\Users\Rocio\source\repos\Muruchi.Laura\PP-Fichatecnica\obj\Debug\PP-Fichatecnica.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\source\repos\Muruchi.Laura\PP-Fichatecnica\obj\Debug\PP-Fichatecnica.exe
+C:\Users\Rocio\source\repos\Muruchi.Laura\PP-Fichatecnica\obj\Debug\PP-Fichatecnica.pdb
