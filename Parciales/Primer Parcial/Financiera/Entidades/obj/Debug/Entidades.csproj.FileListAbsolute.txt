@@ -1,0 +1,6 @@
+C:\Users\Rocio\source\repos\Financiera\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rocio\source\repos\Financiera\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rocio\source\repos\Financiera\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Rocio\source\repos\Financiera\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\source\repos\Financiera\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rocio\source\repos\Financiera\Entidades\obj\Debug\Entidades.pdb
