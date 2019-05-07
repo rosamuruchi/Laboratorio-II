@@ -1,0 +1,10 @@
+C:\Users\Rocio\source\repos\Productos\TestEstante\obj\Debug\TestEstante.csprojAssemblyReference.cache
+C:\Users\Rocio\source\repos\Productos\TestEstante\obj\Debug\TestEstante.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\source\repos\Productos\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Rocio\source\repos\Productos\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Rocio\source\repos\Productos\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Rocio\source\repos\Productos\TestEstante\bin\Debug\Entidades.dll
+C:\Users\Rocio\source\repos\Productos\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\Rocio\source\repos\Productos\TestEstante\obj\Debug\TestEstante.csproj.CopyComplete
+C:\Users\Rocio\source\repos\Productos\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Rocio\source\repos\Productos\TestEstante\obj\Debug\TestEstante.pdb

@@ -1,0 +1,10 @@
+C:\Users\Rocio\source\repos\Libros\Test\bin\Debug\Test.exe.config
+C:\Users\Rocio\source\repos\Libros\Test\bin\Debug\Test.exe
+C:\Users\Rocio\source\repos\Libros\Test\bin\Debug\Test.pdb
+C:\Users\Rocio\source\repos\Libros\Test\bin\Debug\Entidades.dll
+C:\Users\Rocio\source\repos\Libros\Test\bin\Debug\Entidades.pdb
+C:\Users\Rocio\source\repos\Libros\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Rocio\source\repos\Libros\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\source\repos\Libros\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Rocio\source\repos\Libros\Test\obj\Debug\Test.exe
+C:\Users\Rocio\source\repos\Libros\Test\obj\Debug\Test.pdb
