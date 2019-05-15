@@ -1,0 +1,10 @@
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\bin\Debug\Clase_15_frmPrincipal.exe.config
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\bin\Debug\Clase_15_frmPrincipal.exe
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\bin\Debug\Clase_15_frmPrincipal.pdb
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\obj\Debug\Clase_15_frmPrincipal.csprojAssemblyReference.cache
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\obj\Debug\Clase_15_frmPrincipal.Form1.resources
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\obj\Debug\Clase_15_frmPrincipal.Properties.Resources.resources
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\obj\Debug\Clase_15_frmPrincipal.csproj.GenerateResource.cache
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\obj\Debug\Clase_15_frmPrincipal.csproj.CoreCompileInputs.cache
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\obj\Debug\Clase_15_frmPrincipal.exe
+D:\Laura_Rocio\Laboratorio-II\Muruchi.Rosa\Clase_15_frmPrincipal\obj\Debug\Clase_15_frmPrincipal.pdb
