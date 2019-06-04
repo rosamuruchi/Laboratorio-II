@@ -1,0 +1,6 @@
+D:\VisualStudio\Rosa.Muruchi.2A\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Rosa.Muruchi.2A\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Rosa.Muruchi.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Rosa.Muruchi.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rosa.Muruchi.2A\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Rosa.Muruchi.2A\Entidades\obj\Debug\Entidades.pdb
