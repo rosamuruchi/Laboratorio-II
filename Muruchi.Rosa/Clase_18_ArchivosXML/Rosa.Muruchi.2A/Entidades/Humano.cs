@@ -8,8 +8,10 @@ using System.Xml.Serialization;
 namespace Entidades
 {
     [Serializable]
-    [XmlInclude(typeof(Humano))]
-    public class Humano :ISerializableXML
+    [XmlInclude(typeof(Persona))]
+    [XmlInclude(typeof(Alumno))]
+    [XmlInclude(typeof(Profesor))]
+    public class Humano //:ISerializableXML
     {
         private int _dni;
 
