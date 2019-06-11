@@ -1,0 +1,7 @@
+D:\VisualStudio\ClassLibrary-BaseDeDatos\ClassLibrary-BaseDeDatos\bin\Debug\ClassLibrary-BaseDeDatos.dll.config
+D:\VisualStudio\ClassLibrary-BaseDeDatos\ClassLibrary-BaseDeDatos\bin\Debug\ClassLibrary-BaseDeDatos.dll
+D:\VisualStudio\ClassLibrary-BaseDeDatos\ClassLibrary-BaseDeDatos\bin\Debug\ClassLibrary-BaseDeDatos.pdb
+D:\VisualStudio\ClassLibrary-BaseDeDatos\ClassLibrary-BaseDeDatos\obj\Debug\ClassLibrary-BaseDeDatos.csprojAssemblyReference.cache
+D:\VisualStudio\ClassLibrary-BaseDeDatos\ClassLibrary-BaseDeDatos\obj\Debug\ClassLibrary-BaseDeDatos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ClassLibrary-BaseDeDatos\ClassLibrary-BaseDeDatos\obj\Debug\ClassLibrary-BaseDeDatos.dll
+D:\VisualStudio\ClassLibrary-BaseDeDatos\ClassLibrary-BaseDeDatos\obj\Debug\ClassLibrary-BaseDeDatos.pdb
