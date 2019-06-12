@@ -1,0 +1,14 @@
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\bin\Debug\WindowsForms.exe
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\bin\Debug\ClassLibrary-BaseDeDatos.dll
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\bin\Debug\ClassLibrary-BaseDeDatos.pdb
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\bin\Debug\ClassLibrary-BaseDeDatos.dll.config
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\obj\Debug\WindowsForms.exe
+D:\VisualStudio\ClassLibrary-BaseDeDatos\WindowsForms\obj\Debug\WindowsForms.pdb
