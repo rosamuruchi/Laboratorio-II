@@ -1,0 +1,11 @@
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\bin\Debug\FrmTest.exe.config
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\bin\Debug\FrmTest.exe
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\bin\Debug\FrmTest.pdb
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\obj\Debug\FrmTest.csprojAssemblyReference.cache
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\obj\Debug\FrmTest.FrmTest.resources
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\obj\Debug\FrmTest.Properties.Resources.resources
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\obj\Debug\FrmTest.csproj.GenerateResource.cache
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\obj\Debug\FrmTest.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\obj\Debug\FrmTest.exe
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\obj\Debug\FrmTest.pdb
+D:\VisualStudio\Muruchi.Rosa.2A\FrmTest\obj\Debug\FrmTest.FrmTest2.resources
