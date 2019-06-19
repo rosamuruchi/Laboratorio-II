@@ -1,0 +1,6 @@
+D:\VisualStudio\EntidadesRepasoSP\EntidadesRepasoSP\bin\Debug\EntidadesRepasoSP.dll
+D:\VisualStudio\EntidadesRepasoSP\EntidadesRepasoSP\bin\Debug\EntidadesRepasoSP.pdb
+D:\VisualStudio\EntidadesRepasoSP\EntidadesRepasoSP\obj\Debug\EntidadesRepasoSP.csprojAssemblyReference.cache
+D:\VisualStudio\EntidadesRepasoSP\EntidadesRepasoSP\obj\Debug\EntidadesRepasoSP.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EntidadesRepasoSP\EntidadesRepasoSP\obj\Debug\EntidadesRepasoSP.dll
+D:\VisualStudio\EntidadesRepasoSP\EntidadesRepasoSP\obj\Debug\EntidadesRepasoSP.pdb

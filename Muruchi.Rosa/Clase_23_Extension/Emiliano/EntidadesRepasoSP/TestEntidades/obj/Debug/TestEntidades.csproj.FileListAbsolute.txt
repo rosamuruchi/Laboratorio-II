@@ -1,0 +1,10 @@
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\bin\Debug\TestEntidades.exe.config
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\bin\Debug\TestEntidades.exe
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\bin\Debug\TestEntidades.pdb
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\bin\Debug\EntidadesRepasoSP.dll
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\bin\Debug\EntidadesRepasoSP.pdb
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\obj\Debug\TestEntidades.csprojAssemblyReference.cache
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\obj\Debug\TestEntidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\obj\Debug\TestEntidades.csproj.CopyComplete
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\obj\Debug\TestEntidades.exe
+D:\VisualStudio\EntidadesRepasoSP\TestEntidades\obj\Debug\TestEntidades.pdb

@@ -1,0 +1,16 @@
+D:\VisualStudio\EntidadesRepasoSP\frmTest\bin\Debug\frmTest.exe.config
+D:\VisualStudio\EntidadesRepasoSP\frmTest\bin\Debug\frmTest.exe
+D:\VisualStudio\EntidadesRepasoSP\frmTest\bin\Debug\frmTest.pdb
+D:\VisualStudio\EntidadesRepasoSP\frmTest\bin\Debug\EntidadesRepasoSP.dll
+D:\VisualStudio\EntidadesRepasoSP\frmTest\bin\Debug\TestEntidades.exe
+D:\VisualStudio\EntidadesRepasoSP\frmTest\bin\Debug\EntidadesRepasoSP.pdb
+D:\VisualStudio\EntidadesRepasoSP\frmTest\bin\Debug\TestEntidades.pdb
+D:\VisualStudio\EntidadesRepasoSP\frmTest\bin\Debug\TestEntidades.exe.config
+D:\VisualStudio\EntidadesRepasoSP\frmTest\obj\Debug\frmTest.csprojAssemblyReference.cache
+D:\VisualStudio\EntidadesRepasoSP\frmTest\obj\Debug\frmTest.Form1.resources
+D:\VisualStudio\EntidadesRepasoSP\frmTest\obj\Debug\frmTest.Properties.Resources.resources
+D:\VisualStudio\EntidadesRepasoSP\frmTest\obj\Debug\frmTest.csproj.GenerateResource.cache
+D:\VisualStudio\EntidadesRepasoSP\frmTest\obj\Debug\frmTest.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EntidadesRepasoSP\frmTest\obj\Debug\frmTest.csproj.CopyComplete
+D:\VisualStudio\EntidadesRepasoSP\frmTest\obj\Debug\frmTest.exe
+D:\VisualStudio\EntidadesRepasoSP\frmTest\obj\Debug\frmTest.pdb
