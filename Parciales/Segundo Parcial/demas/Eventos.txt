@@ -1,0 +1,8 @@
+------EVENTOS --------
+
+un objeto que redirecciona a otros metodos, siempre con la misma firma
+es un puntero a funciones
+el delegado siempre tiene la misma FIRMA.
+si se cambia, se rompe. No funciona mas.
+
+
