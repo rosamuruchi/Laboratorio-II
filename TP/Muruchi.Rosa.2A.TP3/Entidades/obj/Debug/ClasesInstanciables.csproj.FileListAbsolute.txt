@@ -1,0 +1,2 @@
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache

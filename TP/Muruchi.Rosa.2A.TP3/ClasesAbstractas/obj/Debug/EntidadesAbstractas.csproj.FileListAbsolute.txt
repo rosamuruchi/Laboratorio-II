@@ -1,0 +1,9 @@
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

@@ -1,0 +1,14 @@
+C:\Users\Rocio\Documents\RosaMuruchi.TP1.2A\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Rocio\Documents\RosaMuruchi.TP1.2A\Entidades\bin\Debug\Entidades.exe
+C:\Users\Rocio\Documents\RosaMuruchi.TP1.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rocio\Documents\RosaMuruchi.TP1.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Rocio\Documents\RosaMuruchi.TP1.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\RosaMuruchi.TP1.2A\Entidades\obj\Debug\Entidades.exe
+C:\Users\Rocio\Documents\RosaMuruchi.TP1.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Rocio\Desktop\RosaMuruchi.TP1.2A\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Rocio\Desktop\RosaMuruchi.TP1.2A\Entidades\bin\Debug\Entidades.exe
+C:\Users\Rocio\Desktop\RosaMuruchi.TP1.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rocio\Desktop\RosaMuruchi.TP1.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Rocio\Desktop\RosaMuruchi.TP1.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\RosaMuruchi.TP1.2A\Entidades\obj\Debug\Entidades.exe
+C:\Users\Rocio\Desktop\RosaMuruchi.TP1.2A\Entidades\obj\Debug\Entidades.pdb

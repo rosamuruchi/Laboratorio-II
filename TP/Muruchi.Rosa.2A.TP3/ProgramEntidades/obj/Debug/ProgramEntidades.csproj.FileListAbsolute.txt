@@ -1,0 +1,16 @@
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\ProgramEntidades.exe.config
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\ProgramEntidades.exe
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\ProgramEntidades.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\Archivos.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\ClasesAbstractas.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\Entidades.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\Excepciones.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\Archivos.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\Entidades.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\bin\Debug\Excepciones.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\obj\Debug\ProgramEntidades.csprojAssemblyReference.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\obj\Debug\ProgramEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\obj\Debug\ProgramEntidades.csproj.CopyComplete
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\obj\Debug\ProgramEntidades.exe
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\ProgramEntidades\obj\Debug\ProgramEntidades.pdb

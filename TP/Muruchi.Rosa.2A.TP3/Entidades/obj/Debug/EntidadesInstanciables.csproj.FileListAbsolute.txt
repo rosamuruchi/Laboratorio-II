@@ -1,0 +1,13 @@
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\bin\Debug\Archivos.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\bin\Debug\ClasesAbstractas.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rocio\Desktop\Muruchi.Rosa.2A.TP3\Entidades\obj\Debug\Entidades.pdb
